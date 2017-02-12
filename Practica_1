@@ -3,6 +3,9 @@
 
 int main(){
   printf("\nHola Mundo\n");
-  printf("\nEsta es una nueva linea de código\n");
+  printf("Luis Angel");
+  printf("Este es mi segundo código");
+  printf("Programar es facil");
+  printf("Voy a compartir con mi compañero el codigo");
   return 0;
 }
