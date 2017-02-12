@@ -1,8 +1,8 @@
-/*Hola Mundo*/
-#include<stdio.h>
-
+#include <stdio.h>
 int main(){
-  printf("\nHola Mundo\n");
-  printf("\nEsta es una nueva linea de código\n");
-  return 0;
+printf ("Este es mi segundo código");
+printf ("Luis Angel");
+printf ("Programar es fácil");
+printf ("Voy a compartir con mi compañero el código");
+return 0;
 }
